@@ -1,2 +1,8 @@
 # Runtime dependencies
 numpy
+pandas
+gymnasium[atari]
+opencv-python
+torch
+matplotlib
+moviepy

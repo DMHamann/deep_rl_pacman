@@ -1,6 +1,6 @@
 # Deep Q-Learning on Ms. Pac-Man
 
-A DQN agent for `ALE/MsPacman-v5`, implemented in PyTorch with Gymnasium roughly based on the project outlined in [`docs/AI_SoSe22_Project2.pdf`](docs/AI_SoSe22_Project2.pdf). 
+A DQN agent for `ALE/MsPacman-v5`, implemented in PyTorch with Gymnasium roughly based on the project outlined in [`docs/project_specs.pdf`](docs/project_specs.pdf). 
 
 After 1,000 episodes (~750k environment steps) the agent reaches a 25-episode
 mean score of roughly **1,000**, against **~250** for random play.
